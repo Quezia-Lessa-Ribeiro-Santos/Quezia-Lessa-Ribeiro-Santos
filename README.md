@@ -27,8 +27,8 @@
  </div>
   
   <div> 
-  <a href="https://instagram.com/queldequezia" target="_blank"><img src="" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:quezialessaribeirodossantos24@gmail.com"><img src="" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/" target="_blank"><img src="" target="_blank"></a> 
+    <h1>Canais de Comunicação</h1>
+      <a href = "mailto:quezialessaribeirodossantos24@gmail.com"><img src="https://user-images.githubusercontent.com/116199090/206611345-7cd48b91-d003-44da-82d1-6e373914ff5d.svg" target="_blank"></a>
+  <a href="https://instagram.com/queldequezia" target="_blank"><img src="https://user-images.githubusercontent.com/116199090/206611469-a0d508f2-c597-4959-9e86-395264db0f77.svg" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/quezia-lessa-ribeiro-dos-santos-8b6b23203/" target="_blank"><img src="https://user-images.githubusercontent.com/116199090/206611471-9c4c781b-6d46-4a87-ab1e-ef9bce912fa2.svg" target="_blank"></a> 
   </div>
