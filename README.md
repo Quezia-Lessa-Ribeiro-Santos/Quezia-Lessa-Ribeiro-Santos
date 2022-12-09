@@ -13,5 +13,5 @@
   <img align="center" alt="Quel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img align="center" alt="Quel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   <img align="center" alt="Quel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
-  <img src="https://github.com/Quezia-Lessa-Ribeiro-Santos/Quezia-Lessa-Ribeiro-Santos/issues/1#issue-1485636200"/> 
+  <img src="https://user-images.githubusercontent.com/116199090/206593316-b435a0e0-9a73-4a1b-b01b-e9a4b7bb4ad1.png"/> 
  </div>
